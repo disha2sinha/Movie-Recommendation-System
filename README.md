@@ -2,7 +2,7 @@
 
 ![](https://github.com/disha2sinha/Movie-Recommendation-System/blob/master/Snapshots/MovieImage.jpg)
 
-## Dataset : **[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)**
+# Dataset : **[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)**
 ### About the Dataset :
 
 **movies_metadata.csv** : Contains Informations like genres, release year, release date, budget, revenue etc. for 45000+ movies
@@ -61,5 +61,5 @@ The features of MoviesData.csv are as follows:
 ## Top 20 high Profit Movies :
 ![](https://github.com/disha2sinha/Movie-Recommendation-System/blob/master/Snapshots/Movie_profit.jpg)
 
-
+# Popularity-Based Recommendation System :
 
