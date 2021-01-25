@@ -62,4 +62,10 @@ The features of MoviesData.csv are as follows:
 ![](https://github.com/disha2sinha/Movie-Recommendation-System/blob/master/Snapshots/Movie_profit.jpg)
 
 # Popularity-Based Recommendation System :
+It is a type of recommendation system which works on the principle of popularity and or anything which is in trend. These systems check about the product or movie which are in trend or are most popular among the users and directly recommend those.
+
+For example, if a product is often purchased by most people then the system will get to know that that product is most popular so for every new user who just signed it, the system will recommend that product to that user also and chances becomes high that the new user will also purchase that. 
+
+
+
 
